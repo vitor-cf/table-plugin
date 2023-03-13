@@ -1,0 +1,11 @@
+.yourclass {
+    position: absolute;
+    margin-top: 20vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-weight: 800;
+    
+}
+.teste {
+    border: 1px solid red;
+}
